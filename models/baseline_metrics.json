@@ -1,0 +1,1 @@
+{"model": "Seasonal-naive / same-day-last-week baseline", "method": "predict sales(t) = lag_7 = sales(t-7)", "evaluation_population": "all 500 series", "mae": 9.076326086956522, "rmse": 12.050653058255175, "mape": 19.916953914122494, "smape": 18.561295169963824}
